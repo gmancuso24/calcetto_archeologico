@@ -1,14 +1,14 @@
 stagione,posizione,id_giocatore,giocatore,soprannome,presenze,presenze_porta,vittorie,pareggi,sconfitte,punti,gol,assist,autogol,parate_miracolose,pali_traverse,gol_squadra,gol_subiti,differenza_reti,gol_subiti_in_porta,perc_vittorie,gol_per_partita
-2026-27,1,riccardo-novelli,Riccardo Novelli,,1,0,1,0,0,1,6,2,0,0,0,15,9,6,0,100.0,6.0
-2026-27,2,alessio-alabisio,Alessio Alabisio,,1,0,1,0,0,1,5,4,0,0,0,15,9,6,0,100.0,5.0
-2026-27,3,luigi-poggi,Luigi Poggi,,1,0,1,0,0,1,4,3,0,0,0,15,9,6,0,100.0,4.0
-2026-27,4,davide-petrecca,Davide Petrecca,,1,0,1,0,0,1,0,2,0,0,0,15,9,6,0,100.0,0.0
-2026-27,5,luca-bianchi,Luca Bianchi,,1,1,1,0,0,1,0,1,0,1,0,15,9,6,9,100.0,0.0
-2026-27,6,martino-menchinelli,Martino Menchinelli,,1,0,0,0,1,0,5,2,0,0,0,9,15,-6,0,0.0,5.0
-2026-27,7,emanuele-angelini,Emanuele Angelini,,1,0,0,0,1,0,2,2,0,0,0,9,15,-6,0,0.0,2.0
-2026-27,8,federico-sampogna,Federico Sampogna,,1,0,0,0,1,0,1,1,0,0,0,9,15,-6,0,0.0,1.0
-2026-27,9,giacomo-mancuso,Giacomo Mancuso,,1,0,0,0,1,0,1,2,0,0,0,9,15,-6,0,0.0,1.0
-2026-27,10,francesco-toso,Francesco Toso,,1,1,0,0,1,0,0,0,0,2,0,9,15,-6,15,0.0,0.0
+2026-27,1,riccardo-novelli,Riccardo Novelli,,1,0,1,0,0,1,6,2,0,0,0,15,12,3,0,100.0,6.0
+2026-27,2,alessio-alabisio,Alessio Alabisio,,1,0,1,0,0,1,5,4,0,0,0,15,12,3,0,100.0,5.0
+2026-27,3,luigi-poggi,Luigi Poggi,,1,0,1,0,0,1,4,3,0,0,0,15,12,3,0,100.0,4.0
+2026-27,4,davide-petrecca,Davide Petrecca,,1,0,1,0,0,1,0,2,0,0,0,15,12,3,0,100.0,0.0
+2026-27,5,luca-bianchi,Luca Bianchi,,1,1,1,0,0,1,0,1,0,1,0,15,12,3,12,100.0,0.0
+2026-27,6,emanuele-angelini,Emanuele Angelini,,1,0,0,0,1,0,5,2,0,0,0,12,15,-3,0,0.0,5.0
+2026-27,7,martino-menchinelli,Martino Menchinelli,,1,0,0,0,1,0,5,2,0,0,0,12,15,-3,0,0.0,5.0
+2026-27,8,federico-sampogna,Federico Sampogna,,1,0,0,0,1,0,1,1,0,0,0,12,15,-3,0,0.0,1.0
+2026-27,9,giacomo-mancuso,Giacomo Mancuso,,1,0,0,0,1,0,1,2,0,0,0,12,15,-3,0,0.0,1.0
+2026-27,10,francesco-toso,Francesco Toso,,1,1,0,0,1,0,0,0,0,2,0,12,15,-3,15,0.0,0.0
 2026-27,,francesco-flamini,Francesco Flamini,Piovra,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,
 2026-27,,francesco-patacca,Francesco Patacca,er Murena,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,
 2026-27,,giacomo-crescenzi,Giacomo Crescenzi,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,

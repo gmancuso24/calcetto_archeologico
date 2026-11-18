@@ -1,11 +1,11 @@
 id_partita,id_giocatore,squadra,ruolo,gol,assist,autogol,parate_miracolose,pali_traverse,data,stagione,nome_squadra,gol_squadra,gol_subiti,esito
-2026-27-001,luigi-poggi,A,D,4,3,0,0,,2026-11-13,2026-27,Squadra Rossa,15,9,V
-2026-27-001,luca-bianchi,A,P,0,1,0,1,,2026-11-13,2026-27,Squadra Rossa,15,9,V
-2026-27-001,riccardo-novelli,A,MS,6,2,0,0,,2026-11-13,2026-27,Squadra Rossa,15,9,V
-2026-27-001,davide-petrecca,A,MD,0,2,0,0,,2026-11-13,2026-27,Squadra Rossa,15,9,V
-2026-27-001,alessio-alabisio,A,A,5,4,0,0,,2026-11-13,2026-27,Squadra Rossa,15,9,V
-2026-27-001,martino-menchinelli,B,A,5,2,0,0,,2026-11-13,2026-27,Squadra Blu,9,15,S
-2026-27-001,giacomo-mancuso,B,MS,1,2,0,0,,2026-11-13,2026-27,Squadra Blu,9,15,S
-2026-27-001,emanuele-angelini,B,MD,2,2,0,0,,2026-11-13,2026-27,Squadra Blu,9,15,S
-2026-27-001,francesco-toso,B,P,0,0,0,2,,2026-11-13,2026-27,Squadra Blu,9,15,S
-2026-27-001,federico-sampogna,B,D,1,1,0,0,,2026-11-13,2026-27,Squadra Blu,9,15,S
+2026-27-001,luigi-poggi,A,D,4,3,0,0,,2026-11-13,2026-27,Squadra Rossa,15,12,V
+2026-27-001,luca-bianchi,A,P,0,1,0,1,,2026-11-13,2026-27,Squadra Rossa,15,12,V
+2026-27-001,riccardo-novelli,A,MS,6,2,0,0,,2026-11-13,2026-27,Squadra Rossa,15,12,V
+2026-27-001,davide-petrecca,A,MD,0,2,0,0,,2026-11-13,2026-27,Squadra Rossa,15,12,V
+2026-27-001,alessio-alabisio,A,A,5,4,0,0,,2026-11-13,2026-27,Squadra Rossa,15,12,V
+2026-27-001,martino-menchinelli,B,A,5,2,0,0,,2026-11-13,2026-27,Squadra Blu,12,15,S
+2026-27-001,giacomo-mancuso,B,MS,1,2,0,0,,2026-11-13,2026-27,Squadra Blu,12,15,S
+2026-27-001,emanuele-angelini,B,MD,5,2,0,0,,2026-11-13,2026-27,Squadra Blu,12,15,S
+2026-27-001,francesco-toso,B,P,0,0,0,2,,2026-11-13,2026-27,Squadra Blu,12,15,S
+2026-27-001,federico-sampogna,B,D,1,1,0,0,,2026-11-13,2026-27,Squadra Blu,12,15,S
