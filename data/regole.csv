@@ -1,0 +1,4 @@
+chiave,valore,descrizione
+punti_vittoria,1,Points awarded for a win
+punti_pareggio,0,Points awarded for a draw
+punti_sconfitta,0,Points awarded for a loss

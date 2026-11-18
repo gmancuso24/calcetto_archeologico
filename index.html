@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Calcetto Archeologico</title>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⚽</text></svg>">
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="topbar-inner">
+      <a class="brand" href="#/">
+        <span class="brand-mark">CA</span>
+        <span class="brand-name">Calcetto Archeologico<small>Stagione <span id="brand-season"></span></small></span>
+      </a>
+      <nav class="nav">
+        <a href="#/" data-page="home">Home</a>
+        <a href="#/classifiche" data-page="classifiche">Classifiche</a>
+        <a href="#/partite" data-page="partite">Partite</a>
+        <a href="#/giocatori" data-page="giocatori">Giocatori</a>
+      </nav>
+      <select id="season" hidden aria-label="Stagione"></select>
+    </div>
+  </header>
+  <main id="app"></main>
+  <footer class="footer">Dati: <code>data/*.csv</code> · rigenera con <code>python3 scripts/build_stats.py</code></footer>
+  <script src="data/derived/data.js"></script>
+  <script src="assets/app.js"></script>
+</body>
+</html>
