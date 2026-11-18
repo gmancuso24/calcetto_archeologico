@@ -1,7 +1,16 @@
-# Calcetto Archeologico
+# ⚽ Calcetto Archeologico
 
-Weekly five-a-side football data: raw CSV tables, a script that derives
-results and standings, and (later) a GitHub Pages dashboard.
+### 👉 [Open the dashboard](https://gmancuso24.github.io/calcetto_archeologico/) 👈
+
+**https://gmancuso24.github.io/calcetto_archeologico/**
+
+Standings, top scorers, match pages with line-ups on the pitch, and personal
+player pages with stats and synergies — for our weekly five-a-side games.
+
+---
+
+This repository holds the raw data as CSV tables, a script that derives
+results and standings, and the static dashboard published with GitHub Pages.
 
 ## Structure
 
@@ -63,8 +72,8 @@ counts only matches where the player was in goal.
 ## Dashboard
 
 Static site, no build tools: `index.html` + `assets/` + `data/derived/data.js`.
-Open `index.html` directly in a browser (works from disk) or publish the repo
-with GitHub Pages (branch root). After editing the CSVs, run
+Live at **https://gmancuso24.github.io/calcetto_archeologico/** (GitHub Pages,
+branch `main`, root). It also works offline: open `index.html` from disk. After editing the CSVs, run
 `python3 scripts/build_stats.py` and reload.
 
 Pages (hash routing): `#/` home, `#/classifiche/<board>`, `#/partite`,
